@@ -1,4 +1,4 @@
-# React/Next.js Django Auth Template
+# React/Next.js Auth Template for Full Stack Development
 
 ## Topics
 - [Get Started](#getting-started)
